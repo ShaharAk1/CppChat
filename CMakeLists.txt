@@ -7,7 +7,8 @@ set(CMAKE_PREFIX_PATH "/opt/homebrew/Cellar/qt/6.9.3/lib/cmake")
 
 find_package(Qt6 COMPONENTS Widgets REQUIRED)
 
-add_executable(untitled3 main.cpp)
+add_executable(untitled3 main.cpp
+        main.h)
 
 target_link_libraries(untitled3 Qt6::Widgets)
 
