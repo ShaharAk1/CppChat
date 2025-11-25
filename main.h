@@ -5,6 +5,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-void createChatStyle(QMainWindow& window , QTextEdit* text);
+//void createChatStyle(QMainWindow& window , QTextEdit* text);
 
 #endif //MAIN_H
