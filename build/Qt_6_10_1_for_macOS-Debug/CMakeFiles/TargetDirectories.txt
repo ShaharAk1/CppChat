@@ -1,0 +1,9 @@
+/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/chat.dir
+/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/chat_autogen_timestamp_deps.dir
+/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/chat_autogen.dir

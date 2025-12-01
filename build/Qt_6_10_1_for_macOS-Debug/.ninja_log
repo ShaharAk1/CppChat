@@ -1,0 +1,81 @@
+# ninja log v6
+79	106	1764630046330622415	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/timestamp	46cc5dc6ddc8a302
+278	1079	1764593822233972847	CMakeFiles/chat.dir/chat_autogen/mocs_compilation.cpp.o	f248b40aca27c37e
+90	122	1764629802032745728	chat_autogen/EWIEGA46WW/qrc_resources.cpp	65287a8e27dfebb9
+2	76	1764630046253859552	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+90	122	1764629802032745728	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/EWIEGA46WW/qrc_resources.cpp	65287a8e27dfebb9
+122	154	1764629802034186291	CMakeFiles/chat.dir/chat_autogen/EWIEGA46WW/qrc_resources.cpp.o	26d65bfd73f080f8
+79	106	1764630046330622415	chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+79	106	1764630046330622415	chat_autogen/timestamp	46cc5dc6ddc8a302
+79	106	1764630046330622415	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+279	1044	1764593822234104515	CMakeFiles/chat.dir/main.cpp.o	537e5962d4f8779c
+74	289	1764630141304388544	build.ninja	ef3e46727d2be381
+692	774	1764630046944052600	chat.app/Contents/MacOS/chat	5357871118bc4844
+106	692	1764630046357793421	CMakeFiles/chat.dir/server.cpp.o	e37402cf1825552e
+2	109	1764630144989046012	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+115	159	1764630145102401195	chat_autogen/timestamp	46cc5dc6ddc8a302
+115	159	1764630145102401195	chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+115	159	1764630145102401195	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/timestamp	46cc5dc6ddc8a302
+115	159	1764630145102401195	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+159	182	1764630145166801074	chat_autogen/EWIEGA46WW/qrc_resources.cpp	65287a8e27dfebb9
+159	182	1764630145166801074	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/EWIEGA46WW/qrc_resources.cpp	65287a8e27dfebb9
+182	225	1764630145169503324	CMakeFiles/chat.dir/chat_autogen/EWIEGA46WW/qrc_resources.cpp.o	26d65bfd73f080f8
+182	915	1764630145169274820	CMakeFiles/chat.dir/server.cpp.o	e37402cf1825552e
+915	998	1764630145902694709	chat.app/Contents/MacOS/chat	5357871118bc4844
+1	78	1764630172546363160	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+80	111	1764630172625372725	chat_autogen/timestamp	46cc5dc6ddc8a302
+80	111	1764630172625372725	chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+80	111	1764630172625372725	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/timestamp	46cc5dc6ddc8a302
+80	111	1764630172625372725	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+111	693	1764630172656217748	CMakeFiles/chat.dir/server.cpp.o	e37402cf1825552e
+694	775	1764630173238430155	chat.app/Contents/MacOS/chat	5357871118bc4844
+1	75	1764630203641325444	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+77	108	1764630203717375379	chat_autogen/timestamp	46cc5dc6ddc8a302
+77	108	1764630203717375379	chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+77	108	1764630203717375379	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/timestamp	46cc5dc6ddc8a302
+77	108	1764630203717375379	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+108	680	1764630203748595157	CMakeFiles/chat.dir/server.cpp.o	e37402cf1825552e
+680	756	1764630204320235108	chat.app/Contents/MacOS/chat	5357871118bc4844
+2	80	1764630230381509399	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+83	109	1764630230462305075	chat_autogen/timestamp	46cc5dc6ddc8a302
+83	109	1764630230462305075	chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+83	109	1764630230462305075	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/timestamp	46cc5dc6ddc8a302
+83	109	1764630230462305075	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+109	654	1764630230489050784	CMakeFiles/chat.dir/server.cpp.o	e37402cf1825552e
+654	730	1764630231033739106	chat.app/Contents/MacOS/chat	5357871118bc4844
+1	83	1764630244338168873	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+86	118	1764630244422768566	chat_autogen/timestamp	46cc5dc6ddc8a302
+86	118	1764630244422768566	chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+86	118	1764630244422768566	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/timestamp	46cc5dc6ddc8a302
+86	118	1764630244422768566	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+118	712	1764630244454892817	CMakeFiles/chat.dir/server.cpp.o	e37402cf1825552e
+712	793	1764630245049193538	chat.app/Contents/MacOS/chat	5357871118bc4844
+1	79	1764630260118149930	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+81	116	1764630260198683935	chat_autogen/timestamp	46cc5dc6ddc8a302
+81	116	1764630260198683935	chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+81	116	1764630260198683935	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/timestamp	46cc5dc6ddc8a302
+81	116	1764630260198683935	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+116	728	1764630260233186014	CMakeFiles/chat.dir/server.cpp.o	e37402cf1825552e
+728	814	1764630260844870131	chat.app/Contents/MacOS/chat	5357871118bc4844
+1	77	1764630267112566730	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+80	111	1764630267191087870	chat_autogen/timestamp	46cc5dc6ddc8a302
+80	111	1764630267191087870	chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+80	111	1764630267191087870	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/timestamp	46cc5dc6ddc8a302
+80	111	1764630267191087870	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+112	747	1764630267222978409	CMakeFiles/chat.dir/server.cpp.o	e37402cf1825552e
+747	837	1764630267858281435	chat.app/Contents/MacOS/chat	5357871118bc4844
+1	77	1764630280970492915	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+80	110	1764630281049504313	chat_autogen/timestamp	46cc5dc6ddc8a302
+80	110	1764630281049504313	chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+80	110	1764630281049504313	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/timestamp	46cc5dc6ddc8a302
+80	110	1764630281049504313	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+110	742	1764630281079511905	CMakeFiles/chat.dir/server.cpp.o	e37402cf1825552e
+742	828	1764630281712044138	chat.app/Contents/MacOS/chat	5357871118bc4844
+3	78	1764630315667133580	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+3	76	1764630355074362036	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	9c8a94e27d6bb1e6
+78	108	1764630355149679501	chat_autogen/timestamp	46cc5dc6ddc8a302
+78	108	1764630355149679501	chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+78	108	1764630355149679501	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/timestamp	46cc5dc6ddc8a302
+78	108	1764630355149679501	/Users/shaharakiva/Documents/Personal Projects/qtProjects/chat/build/Qt_6_10_1_for_macOS-Debug/chat_autogen/mocs_compilation.cpp	46cc5dc6ddc8a302
+108	684	1764630355179872472	CMakeFiles/chat.dir/server.cpp.o	e37402cf1825552e
+684	812	1764630355755474734	chat.app/Contents/MacOS/chat	5357871118bc4844
