@@ -32,7 +32,7 @@ This project helped me gain practical experience with Qt widgets, signals and sl
 
 ## How to Run
 1.	Install Qt (Qt Creator).
-2.	Clone this repository: `git clone https://github.com/YourUsername/CppChat.git`
+2.	Clone this repository: `git clone https://github.com/ShaharAk1/CppChat.git`
 3.	Open the project in Qt Creator (.pro file or CMakeLists.txt).
 4.	Build the project.
 5.	Run the application – two chat windows will open, allowing you to send messages between them.
